@@ -18,7 +18,7 @@
     <!-- Custom styles -->
     <style>
         .todo{
-            color: #6f42c1;
+            color:rgb(0, 234, 255);
         }
         .btn-purple {
             position: relative;
